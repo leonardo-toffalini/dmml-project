@@ -1,5 +1,7 @@
 # Costa Rican Household Poverty Level Prediction
 
+To view the jupyter notebooks more clearly go to the following link: <https://nbviewer.org/github/leonardo-toffalini/dmml-project/>
+
 ## Goal
 Identify which households have the highest need for social welfare assistance.
 
